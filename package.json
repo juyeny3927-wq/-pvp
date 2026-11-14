@@ -1,0 +1,1 @@
+{"name":"jenga-pvp","version":"1.0.0","description":"Jenga PvP 3D multiplayer","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"ws":"^8.18.0"},"engines":{"node":">=18"}}
